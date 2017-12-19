@@ -1,0 +1,85 @@
+Sun Dec 17 09:00:15 2017
++-----------------------------------------------------------------------------+
+| NVIDIA-SMI 375.66                 Driver Version: 375.66                    |
+|-------------------------------+----------------------+----------------------+
+| GPU  Name        Persistence-M| Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp  Perf  Pwr:Usage/Cap|         Memory-Usage | GPU-Util  Compute M. |
+|===============================+======================+======================|
+|   0  GeForce GTX 108...  Off  | 0000:04:00.0     Off |                  N/A |
+| 41%   70C    P2   221W / 250W |  10989MiB / 11172MiB |     64%      Default |
++-------------------------------+----------------------+----------------------+
+|   1  GeForce GTX 108...  Off  | 0000:05:00.0     Off |                  N/A |
+| 36%   62C    P2    70W / 250W |  10380MiB / 11172MiB |     33%      Default |
++-------------------------------+----------------------+----------------------+
+|   2  GeForce GTX 108...  Off  | 0000:08:00.0     Off |                  N/A |
+| 41%   69C    P2    85W / 250W |   6363MiB / 11172MiB |     24%      Default |
++-------------------------------+----------------------+----------------------+
+|   3  GeForce GTX 108...  Off  | 0000:09:00.0     Off |                  N/A |
+| 23%   34C    P8    17W / 250W |  10453MiB / 11172MiB |      0%      Default |
++-------------------------------+----------------------+----------------------+
+|   4  GeForce GTX 108...  Off  | 0000:85:00.0     Off |                  N/A |
+| 37%   55C    P2    62W / 250W |  10153MiB / 11172MiB |      0%      Default |
++-------------------------------+----------------------+----------------------+
+|   5  GeForce GTX 108...  Off  | 0000:86:00.0     Off |                  N/A |
+| 30%   53C    P2    75W / 250W |  10797MiB / 11172MiB |      0%      Default |
++-------------------------------+----------------------+----------------------+
+|   6  GeForce GTX 108...  Off  | 0000:89:00.0     Off |                  N/A |
+| 32%   52C    P2    73W / 250W |  10993MiB / 11172MiB |      0%      Default |
++-------------------------------+----------------------+----------------------+
+|   7  GeForce GTX 108...  Off  | 0000:8A:00.0     Off |                  N/A |
+| 41%   70C    P2    95W / 250W |   5343MiB / 11172MiB |     23%      Default |
++-------------------------------+----------------------+----------------------+
+
++-----------------------------------------------------------------------------+
+| Processes:                                                       GPU Memory |
+|  GPU       PID  Type  Process name                               Usage      |
+|=============================================================================|
+|    0     20774    C   python                                        3369MiB |
+|    0     32718    C   python                                        1207MiB |
+|    0     37342    C   python                                        6409MiB |
+|    1      2659    C   python                                         149MiB |
+|    1      2662    C   python                                         149MiB |
+|    1      2663    C   python                                         149MiB |
+|    1      4767    C   python                                        4844MiB |
+|    1      5076    C   python                                         149MiB |
+|    1      5083    C   python                                         149MiB |
+|    1      5084    C   python                                         149MiB |
+|    1      5085    C   python                                         149MiB |
+|    1     24539    C   python                                        1171MiB |
+|    1     29120    C   python                                        1163MiB |
+|    1     31730    C   python                                        1533MiB |
+|    1     40546    C   python                                         149MiB |
+|    1     40550    C   python                                         149MiB |
+|    1     40551    C   python                                         149MiB |
+|    1     40555    C   python                                         149MiB |
+|    2      3097    C   python                                         149MiB |
+|    2      3100    C   python                                         149MiB |
+|    2      3107    C   python                                         149MiB |
+|    2      3108    C   python                                         149MiB |
+|    2      3989    C   python                                         149MiB |
+|    2      3994    C   python                                         149MiB |
+|    2      3999    C   python                                         149MiB |
+|    2      4006    C   python                                         149MiB |
+|    2      5433    C   python                                         149MiB |
+|    2      5434    C   python                                         149MiB |
+|    2      5435    C   python                                         149MiB |
+|    2      5440    C   python                                         149MiB |
+|    2     17650    C   python                                        2245MiB |
+|    2     25535    C   python                                        1159MiB |
+|    2     28019    C   python                                        1161MiB |
+|    3     24539    C   python                                       10451MiB |
+|    4     28147    C   python                                        9696MiB |
+|    4     29120    C   python                                         453MiB |
+|    5     11484    C   python                                       10795MiB |
+|    6      4501    C   /usr/share/Anaconda3/bin/python                149MiB |
+|    6      4503    C   /usr/share/Anaconda3/bin/python                149MiB |
+|    6      4504    C   /usr/share/Anaconda3/bin/python                149MiB |
+|    6      4505    C   /usr/share/Anaconda3/bin/python                149MiB |
+|    6      6983    C   /usr/share/Anaconda3/bin/python               6583MiB |
+|    6     13236    C   python                                        1471MiB |
+|    7      1970    C   python                                         149MiB |
+|    7      1972    C   python                                         149MiB |
+|    7      1974    C   python                                         149MiB |
+|    7      1975    C   python                                         149MiB |
+|    7     24250    C   python                                        4743MiB |
++-----------------------------------------------------------------------------+
